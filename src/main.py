@@ -1,3 +1,5 @@
+# TODO: switch to PyQt6
+
 import models
 
 
